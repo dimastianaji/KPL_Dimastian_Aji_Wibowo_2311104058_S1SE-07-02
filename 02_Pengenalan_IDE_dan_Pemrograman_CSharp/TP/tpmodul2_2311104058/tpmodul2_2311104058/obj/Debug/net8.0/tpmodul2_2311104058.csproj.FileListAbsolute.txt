@@ -1,0 +1,14 @@
+D:\College\Semester 4\Praktikum Konstruksi Perangkat Lunak\Modul 2\tp\tpmodul2_2311104058\tpmodul2_2311104058\bin\Debug\net8.0\tpmodul2_2311104058.exe
+D:\College\Semester 4\Praktikum Konstruksi Perangkat Lunak\Modul 2\tp\tpmodul2_2311104058\tpmodul2_2311104058\bin\Debug\net8.0\tpmodul2_2311104058.deps.json
+D:\College\Semester 4\Praktikum Konstruksi Perangkat Lunak\Modul 2\tp\tpmodul2_2311104058\tpmodul2_2311104058\bin\Debug\net8.0\tpmodul2_2311104058.runtimeconfig.json
+D:\College\Semester 4\Praktikum Konstruksi Perangkat Lunak\Modul 2\tp\tpmodul2_2311104058\tpmodul2_2311104058\bin\Debug\net8.0\tpmodul2_2311104058.dll
+D:\College\Semester 4\Praktikum Konstruksi Perangkat Lunak\Modul 2\tp\tpmodul2_2311104058\tpmodul2_2311104058\bin\Debug\net8.0\tpmodul2_2311104058.pdb
+D:\College\Semester 4\Praktikum Konstruksi Perangkat Lunak\Modul 2\tp\tpmodul2_2311104058\tpmodul2_2311104058\obj\Debug\net8.0\tpmodul2_2311104058.GeneratedMSBuildEditorConfig.editorconfig
+D:\College\Semester 4\Praktikum Konstruksi Perangkat Lunak\Modul 2\tp\tpmodul2_2311104058\tpmodul2_2311104058\obj\Debug\net8.0\tpmodul2_2311104058.AssemblyInfoInputs.cache
+D:\College\Semester 4\Praktikum Konstruksi Perangkat Lunak\Modul 2\tp\tpmodul2_2311104058\tpmodul2_2311104058\obj\Debug\net8.0\tpmodul2_2311104058.AssemblyInfo.cs
+D:\College\Semester 4\Praktikum Konstruksi Perangkat Lunak\Modul 2\tp\tpmodul2_2311104058\tpmodul2_2311104058\obj\Debug\net8.0\tpmodul2_2311104058.csproj.CoreCompileInputs.cache
+D:\College\Semester 4\Praktikum Konstruksi Perangkat Lunak\Modul 2\tp\tpmodul2_2311104058\tpmodul2_2311104058\obj\Debug\net8.0\tpmodul2_2311104058.dll
+D:\College\Semester 4\Praktikum Konstruksi Perangkat Lunak\Modul 2\tp\tpmodul2_2311104058\tpmodul2_2311104058\obj\Debug\net8.0\refint\tpmodul2_2311104058.dll
+D:\College\Semester 4\Praktikum Konstruksi Perangkat Lunak\Modul 2\tp\tpmodul2_2311104058\tpmodul2_2311104058\obj\Debug\net8.0\tpmodul2_2311104058.pdb
+D:\College\Semester 4\Praktikum Konstruksi Perangkat Lunak\Modul 2\tp\tpmodul2_2311104058\tpmodul2_2311104058\obj\Debug\net8.0\tpmodul2_2311104058.genruntimeconfig.cache
+D:\College\Semester 4\Praktikum Konstruksi Perangkat Lunak\Modul 2\tp\tpmodul2_2311104058\tpmodul2_2311104058\obj\Debug\net8.0\ref\tpmodul2_2311104058.dll
