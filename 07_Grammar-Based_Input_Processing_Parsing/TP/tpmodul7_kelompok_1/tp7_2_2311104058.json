@@ -1,0 +1,12 @@
+{
+  "mata_kuliah": [
+    {
+      "kode_matakuliah": "A123",
+      "nama_matakuliah": "Algoritma dan Struktur Data"
+    },
+    {
+      "kode_matakuliah": "B234",
+      "nama_matakuliah": "Pemrograman Berorientasi Objek"
+    }
+  ]
+}

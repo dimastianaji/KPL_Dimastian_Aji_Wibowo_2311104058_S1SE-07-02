@@ -1,0 +1,32 @@
+{
+  "mata_kuliah": [
+    {
+      "kode_matakuliah": "CCK2FAB4",
+      "nama_matakuliah": "Arsitektur dan Desain Perangkat Lunak"
+    },
+    {
+      "kode_matakuliah": "CCK2HAB4",
+      "nama_matakuliah": "Basis Data"
+    },
+    {
+      "kode_matakuliah": "CCK2GAB3",
+      "nama_matakuliah": "Interaksi Manusia Komputer"
+    },
+    {
+      "kode_matakuliah": "CCK2KAB4",
+      "nama_matakuliah": "Konstruksi Perangkat Lunak"
+    },
+    {
+      "kode_matakuliah": "CCK2CAB3",
+      "nama_matakuliah": "Pemodelan Perangkat Lunak"
+    },
+    {
+      "kode_matakuliah": "CCK2JAC2",
+      "nama_matakuliah": "Proyek Tingkat II"
+    },
+    {
+      "kode_matakuliah": "CCK1KAB3",
+      "nama_matakuliah": "Rekayasa Kebutuhan Perangkat Lunak"
+    }
+  ]
+}
