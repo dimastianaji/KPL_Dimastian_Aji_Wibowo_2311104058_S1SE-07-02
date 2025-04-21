@@ -23,10 +23,8 @@ namespace modul8_2311104058
             if (File.Exists(configFile))
             {
                 string json = File.ReadAllText(configFile);
-                // Deserialize to temporary object
                 var configData = JsonConvert.DeserializeObject<BankTransferConfigData>(json);
 
-                // Copy values to this instance
                 this.lang = configData.lang;
                 this.transfer = configData.transfer;
                 this.methods = configData.methods;
@@ -34,7 +32,6 @@ namespace modul8_2311104058
             }
             else
             {
-                // Default config
                 lang = "en";
                 transfer = new Transfer
                 {
@@ -45,7 +42,6 @@ namespace modul8_2311104058
                 methods = new List<string> { "RTO (real-time)", "SKN", "RTGS", "BI FAST" };
                 confirmation = new Confirmation { en = "yes", id = "ya" };
 
-                // Save to JSON
                 var defaultData = new BankTransferConfigData
                 {
                     lang = this.lang,
@@ -59,8 +55,6 @@ namespace modul8_2311104058
             }
         }
     }
-
-    // Helper class for safe deserialization
     public class BankTransferConfigData
     {
         public string lang { get; set; }
