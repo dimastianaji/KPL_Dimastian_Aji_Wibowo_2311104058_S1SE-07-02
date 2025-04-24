@@ -11,8 +11,9 @@ namespace MahasiswaApi.Controllers
         private static List<Mahasiswa> mahasiswaList = new List<Mahasiswa>
         {
             new Mahasiswa("Dimastian Aji Wibowo", "2311104058"),
-            new Mahasiswa("Zhafir Zaidan Avail", "2311104059"),
-            new Mahasiswa("Alvin Bagus Firmansyah", "2311104070")
+            new Mahasiswa("Fahmi Hasan Asagaf", "2311104074"),
+            new Mahasiswa("Rifqi Mohamad Ramdani", "2311104044"),
+            new Mahasiswa("Berlian Seva Astryana", "2311104067")
         };
 
         [HttpGet]
