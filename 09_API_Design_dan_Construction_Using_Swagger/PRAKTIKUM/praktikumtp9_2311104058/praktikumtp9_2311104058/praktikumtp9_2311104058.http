@@ -1,0 +1,6 @@
+@praktikumtp9_2311104058_HostAddress = http://localhost:5070
+
+GET {{praktikumtp9_2311104058_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
